@@ -1,0 +1,24 @@
+[
+  {
+    "id": "java-001",
+    "name": "Java Programming Assessment",
+    "description": "Tests core Java programming skills, OOP concepts, and data structures",
+    "category": "Programming",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "remote_support": true,
+    "adaptive": false,
+    "tags": ["java", "programming", "coding", "software"]
+  },
+  {
+    "id": "comm-001",
+    "name": "Communication Skills Test",
+    "description": "Assesses verbal and written communication abilities",
+    "category": "Soft Skills",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "remote_support": true,
+    "adaptive": true,
+    "tags": ["communication", "soft skills", "verbal", "written"]
+  }
+]
